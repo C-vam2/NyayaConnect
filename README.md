@@ -1,35 +1,69 @@
-# NyayaConnect
-![logo](https://github.com/user-attachments/assets/13655b3a-663c-43da-a204-cec87babe6c7)
+# NyayaConnect  
 
-NyayaConnect is a revolutionary mobile application designed to make India’s new criminal laws accessible and comprehensible to all. With the introduction of the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA), this app bridges the gap between complex legal texts and public understanding. It features an intuitive interface that organizes these statutes into easily navigable chapters and sections, empowering users with structured legal knowledge.
+![logo](https://github.com/user-attachments/assets/13655b3a-663c-43da-a204-cec87babe6c7)  
 
-NyayaConnect is equipped with innovative functionalities such as keyword search for quick information retrieval, text-to-speech support for auditory learning, and bookmarking for saving critical sections. To cater to a diverse audience, it offers multilingual support, integrating Google Translate for international and Indian languages. This ensures accessibility for users across linguistic and cultural boundaries.
+NyayaConnect is a revolutionary mobile application designed to make India’s new criminal laws accessible and comprehensible to all. With the introduction of the **Bharatiya Nyaya Sanhita (BNS)**, **Bharatiya Nagarik Suraksha Sanhita (BNSS)**, and **Bharatiya Sakshya Adhiniyam (BSA)**, this app bridges the gap between complex legal texts and public understanding.  
 
-The app also emphasizes inclusivity by supporting visually impaired users and simplifying legal content for individuals without prior legal expertise. Its goal is to enhance engagement and foster legal awareness, benefiting students, legal professionals, and everyday citizens alike.
+It features an intuitive interface that organizes these statutes into easily navigable chapters and sections, empowering users with structured legal knowledge.  
 
-NyayaConnect leverages reliable data from the Ministry of Home Affairs and the India Code repository, ensuring that the content is accurate and up-to-date. By combining modern technology with user-centric design, this app transforms how people interact with legal information, making justice accessible at their fingertips.
+---
 
-# Desclaimer
-Welcome to NyayaConnect, a user-friendly platform designed to make India's new criminal laws accessible to everyone. With the recent introduction of the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA), NyayaConnect bridges the gap between complex legal texts and public understanding. Key features like multilingual support, text-to-speech, keyword search, and bookmarking ensure enhanced usability. Whether for personal or educational purposes, NyayaConnect empowers users to navigate India's modernized legal framework with ease and confidence​.
+## Features  
 
-Collecting and Using Your Personal Data
-We do not collect or share any of your personal data to any third parties.
+- **Keyword Search**: Quickly find relevant legal information.  
+- **Text-to-Speech Support**: Enables auditory learning.  
+- **Bookmarking**: Save critical sections for quick access.  
+- **Multilingual Support**: Offers translations for better accessibility.  
+- **Accessibility Features**: Inclusive design for visually impaired users and simplified content for non-experts.  
 
+---
 
-Permissions: 
+## Screenshots  
 
-Our app uses text-to-speech (TTS) services to read content aloud for user convenience. This feature processes in-app text but does not store or share this data without explicit user consent. Additionally, text-processing features are used to manipulate user-selected text within the app. No text is transmitted to third-party services unless explicitly initiated by the user. 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cd63eac7-7728-4af7-a31e-bc9707d52475" alt="Image 1" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/d2d33c63-6768-4cae-994d-b9a379a1a3ae" alt="Image 2" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/3a087b56-1218-4e71-a8be-3f7e8db28121" alt="Image 3" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bd884cf4-bf56-4adb-b817-f9a0ad661f3b" alt="Image 4" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/24190bb5-094d-4e35-b517-19fde627e4f7" alt="Image 5" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/23eb3182-0192-46e6-9f58-e0b3f05354b3" alt="Image 6" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/375f1068-dcc6-47a9-b5af-0296d93844ee" alt="Image 7" width="250"></td>
+  </tr>
+</table>  
 
+---
 
-Local Storage Usage:
+## Permissions  
 
-NyayaConnect uses the local storage on your device to store in-app data, such as user preferences and other app-related information. This data is stored securely on your device and is not transmitted, shared, or used for any commercial or third-party purposes. The app does not access or collect any personal data from your device outside of what is required for its functionality. 
+- **Text-to-Speech (TTS)**: Reads in-app content aloud but does not store or share data without user consent.  
+- **Text Processing**: Manipulates user-selected text without transmitting data externally.  
 
-Children's Privacy
-"NyayaConnect" does not address any one under the age of 13. We do not collect any personal Information from children through our application.
+---
 
-Disclaimer 
-"NyayaConnect " is an educational platform designed to provide informational content and resources. This app is not affiliated with, endorsed by, or representative of any government or official organization. Users are advised to independently verify the accuracy and reliability of the information provided before making any legal decisions or taking action. "NyayaConnect " does not assume responsibility for any outcomes arising from the use of the app’s content. 
+## Local Storage Usage  
 
-Contact Us
-If you have any queries or suggestions, feel free to reach us at: shivamdellvostro@gmail.com 
+NyayaConnect uses local storage on your device to store user preferences and app-related information securely. It does not transmit, share, or use your personal data for any external purposes.  
+
+---
+
+## Children's Privacy  
+
+NyayaConnect is not intended for individuals under the age of 13. The app does not collect personal information from children.  
+
+---
+
+## Disclaimer  
+
+NyayaConnect is an educational platform providing informational content about India’s legal framework. While we ensure accuracy, users are advised to independently verify the information before making legal decisions. The app is not affiliated with any government or official organization.  
+
+---
+
+## Contact Us  
+
+For any queries or suggestions, feel free to reach us at:  
+**shivamdellvostro@gmail.com**  
