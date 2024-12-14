@@ -1,4 +1,6 @@
 # NyayaConnect
+![logo](https://github.com/user-attachments/assets/13655b3a-663c-43da-a204-cec87babe6c7)
+
 NyayaConnect is a revolutionary mobile application designed to make India’s new criminal laws accessible and comprehensible to all. With the introduction of the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA), this app bridges the gap between complex legal texts and public understanding. It features an intuitive interface that organizes these statutes into easily navigable chapters and sections, empowering users with structured legal knowledge.
 
 NyayaConnect is equipped with innovative functionalities such as keyword search for quick information retrieval, text-to-speech support for auditory learning, and bookmarking for saving critical sections. To cater to a diverse audience, it offers multilingual support, integrating Google Translate for international and Indian languages. This ensures accessibility for users across linguistic and cultural boundaries.
